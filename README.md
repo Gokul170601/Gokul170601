@@ -1,3 +1,7 @@
+<img src="https://raw.githubusercontent.com/Gokul170601/Gokul170601/output/snake.svg" alt="Snake animation" />
+
+###
+
 <p align="left">Hello World!!</p>
 
 ###
